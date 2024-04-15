@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\bin\Debug\net8.0\AmericanFootball.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\bin\Debug\net8.0\AmericanFootball.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\bin\Debug\net8.0\AmericanFootball.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\bin\Debug\net8.0\AmericanFootball.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\bin\Debug\net8.0\AmericanFootball.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\obj\Debug\net8.0\AmericanFootball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\obj\Debug\net8.0\AmericanFootball.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\obj\Debug\net8.0\AmericanFootball.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\obj\Debug\net8.0\AmericanFootball.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\obj\Debug\net8.0\AmericanFootball.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\obj\Debug\net8.0\refint\AmericanFootball.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\obj\Debug\net8.0\AmericanFootball.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\obj\Debug\net8.0\AmericanFootball.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\AmericanFootball\AmericanFootball\obj\Debug\net8.0\ref\AmericanFootball.dll
